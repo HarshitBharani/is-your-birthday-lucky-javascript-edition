@@ -60,3 +60,6 @@ button{
     border: 0px;
 
 }
+button:hover {
+    color: var(--text-color);
+  }
