@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin: 0%;
+    padding: 0%s;
+}
+textarea{
+    padding: 1rem;
+    margin: 1rem;
+    width: 80%;
+    height: 8vh;
+   box-sizing: border-box;
+   
+}
+button{
+    display: block;
+    margin: auto;
+}
